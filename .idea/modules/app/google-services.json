@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "314323229234",
+    "firebase_url": "https://almacenamientoexterno-5e0df.firebaseio.com",
+    "project_id": "almacenamientoexterno-5e0df",
+    "storage_bucket": "almacenamientoexterno-5e0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314323229234:android:0877f5707a38ad974dfa2b",
+        "android_client_info": {
+          "package_name": "pablo.kainotomia.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314323229234-bu2j99d3di338o0jn3qr0to48e6n49gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pablo.kainotomia.hospital",
+            "certificate_hash": "3c343cb170d040086c7cfdceb459f77e673fa0c0"
+          }
+        },
+        {
+          "client_id": "314323229234-ogfc3ln1e94fu7e6q7o4fiudrjmguhii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADTdmAGpJAYx3rpBtGukCplrtq5QGnPJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314323229234-ogfc3ln1e94fu7e6q7o4fiudrjmguhii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
