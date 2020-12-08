@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">hospital</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="entrar">Entrar</string>
 </resources>
